@@ -12,6 +12,9 @@ You are expected to develop an artificial intelligence model using usage data fr
 Jaccard Score has been determined as the metric criterion. Your predictions, consisting of 9 binary values indicating whether each menu will be recommended or not, will be compared with this metric. At the end of the competition, the participant who achieves the best prediction score on the Private Leaderboard will be entitled to present the final submission.
 
 An example output is as follows:
+
 Customer A -> 000101010 (Menus 4, 6, and 8 are predicted to be recommended to Customer A.)
+
 Customer B -> 100000011 (Menus 1, 8, and 9 are predicted to be recommended to Customer B.)
+
 *Predictions should contain only 3 menus.

@@ -8,7 +8,7 @@ Smartphones and mobile applications, an indispensable part of our lives, have ma
 
 You are expected to develop an artificial intelligence model using usage data from a mobile application to recommend to each user the menu they are most likely to need in that application.  The dataset includes 9 menus that each user preferred in their past usage, represented as binary values. Your task is to predict which 3 out of these 9 menus should be added to the user interface.
 
-## Evaluation
+## Challenge Evaluation
 Jaccard Score has been determined as the metric criterion. Your predictions, consisting of 9 binary values indicating whether each menu will be recommended or not, will be compared with this metric. At the end of the competition, the participant who achieves the best prediction score on the Private Leaderboard will be entitled to present the final submission.
 
 An example output is as follows:
